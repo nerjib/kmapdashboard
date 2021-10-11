@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/kmapdashboard/static/css/main.e3f071c8.chunk.css",
-    "main.js": "/kmapdashboard/static/js/main.bcd1c2dc.chunk.js",
-    "main.js.map": "/kmapdashboard/static/js/main.bcd1c2dc.chunk.js.map",
+    "main.js": "/kmapdashboard/static/js/main.277bd045.chunk.js",
+    "main.js.map": "/kmapdashboard/static/js/main.277bd045.chunk.js.map",
     "runtime-main.js": "/kmapdashboard/static/js/runtime-main.4c1173c8.js",
     "runtime-main.js.map": "/kmapdashboard/static/js/runtime-main.4c1173c8.js.map",
     "static/css/2.d0176e96.chunk.css": "/kmapdashboard/static/css/2.d0176e96.chunk.css",
-    "static/js/2.b161f942.chunk.js": "/kmapdashboard/static/js/2.b161f942.chunk.js",
-    "static/js/2.b161f942.chunk.js.map": "/kmapdashboard/static/js/2.b161f942.chunk.js.map",
+    "static/js/2.ef25acc5.chunk.js": "/kmapdashboard/static/js/2.ef25acc5.chunk.js",
+    "static/js/2.ef25acc5.chunk.js.map": "/kmapdashboard/static/js/2.ef25acc5.chunk.js.map",
     "index.html": "/kmapdashboard/index.html",
-    "precache-manifest.f6814a936273d35d5894386642acb850.js": "/kmapdashboard/precache-manifest.f6814a936273d35d5894386642acb850.js",
+    "precache-manifest.b9c709a4c719c30916fbb4e9d1cf6113.js": "/kmapdashboard/precache-manifest.b9c709a4c719c30916fbb4e9d1cf6113.js",
     "service-worker.js": "/kmapdashboard/service-worker.js",
     "static/css/2.d0176e96.chunk.css.map": "/kmapdashboard/static/css/2.d0176e96.chunk.css.map",
     "static/css/main.e3f071c8.chunk.css.map": "/kmapdashboard/static/css/main.e3f071c8.chunk.css.map",
-    "static/js/2.b161f942.chunk.js.LICENSE.txt": "/kmapdashboard/static/js/2.b161f942.chunk.js.LICENSE.txt",
-    "static/js/main.bcd1c2dc.chunk.js.LICENSE.txt": "/kmapdashboard/static/js/main.bcd1c2dc.chunk.js.LICENSE.txt",
+    "static/js/2.ef25acc5.chunk.js.LICENSE.txt": "/kmapdashboard/static/js/2.ef25acc5.chunk.js.LICENSE.txt",
+    "static/js/main.277bd045.chunk.js.LICENSE.txt": "/kmapdashboard/static/js/main.277bd045.chunk.js.LICENSE.txt",
     "static/media/kaduna-map.png": "/kmapdashboard/static/media/kaduna-map.636c3af6.png",
     "static/media/marc.jpg": "/kmapdashboard/static/media/marc.8880a65c.jpg",
     "static/media/ruwasa.jpg": "/kmapdashboard/static/media/ruwasa.02437f3f.jpg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.4c1173c8.js",
     "static/css/2.d0176e96.chunk.css",
-    "static/js/2.b161f942.chunk.js",
+    "static/js/2.ef25acc5.chunk.js",
     "static/css/main.e3f071c8.chunk.css",
-    "static/js/main.bcd1c2dc.chunk.js"
+    "static/js/main.277bd045.chunk.js"
   ]
 }
