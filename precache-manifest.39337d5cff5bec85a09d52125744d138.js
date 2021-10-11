@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c27c7336cbeef6377caf7481faf5cfcb",
+    "revision": "25d5f0b78fcb7995d0448b91436ee448",
     "url": "/kmapdashboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kmapdashboard/static/css/2.d0176e96.chunk.css"
   },
   {
-    "revision": "32fa0bad1f1b90cb5e48",
+    "revision": "91405a31477f9a114043",
     "url": "/kmapdashboard/static/css/main.e3f071c8.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kmapdashboard/static/js/2.ef25acc5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32fa0bad1f1b90cb5e48",
-    "url": "/kmapdashboard/static/js/main.277bd045.chunk.js"
+    "revision": "91405a31477f9a114043",
+    "url": "/kmapdashboard/static/js/main.0676c992.chunk.js"
   },
   {
     "revision": "f7bdf0cfc9ea0dd44285692948c2d84f",
-    "url": "/kmapdashboard/static/js/main.277bd045.chunk.js.LICENSE.txt"
+    "url": "/kmapdashboard/static/js/main.0676c992.chunk.js.LICENSE.txt"
   },
   {
     "revision": "568e6bf7d7a9ab0172c9",
